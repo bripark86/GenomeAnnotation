@@ -15,7 +15,7 @@ The bgzip and tabix programs (http://www.htslib.org/doc/tabix.html) and bedtools
 (https://bedtools.readthedocs.io/en/latest/) must be installed and in the \$PATH. 
 The user supplies the GFF3 file as a single argument to the command and the output is a 
 12 column tab-delimited text written to STDOUT with the following columns:
-1. transcript ID
+1. transcript id
 2. transcript sequence length
 3. number of exons
 4. total exon sequence length
